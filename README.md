@@ -3,9 +3,9 @@
 Consultor y divulgador de IA para marcas, negocios y creadores.
 
 Ayudo a marcas, negocios y proyectos a usar IA de manera simplificada para:
-- Diseñar productos y servicios con AI
-- Crear sistemas simplificados para optimizar resultados.
+- Crear sistemas y flujos simplificados para optimizar resultados.
 - Ahorrar tiempo en tareas repetitivas y aumentar la productividad.
+- Diseñar productos y servicios con inteligencia artificial, sin tener que ser un experto.
 
 ---
 
