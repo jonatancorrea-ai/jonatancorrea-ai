@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola, soy Jonatan Correa👋
 
-<!--
-**jonatancorrea-ai/jonatancorrea-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Consultor y divulgador de IA para marcas, negocios y creadores.
 
-Here are some ideas to get you started:
+Ayudo a marcas, negocios y proyectos a usar IA de manera simplificada para:
+- Diseñar productos y servicios con AI
+- Crear sistemas simplificados para optimizar resultados.
+- Ahorrar tiempo en tareas repetitivas y aumentar la productividad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Series y recursos destacados
+
+### CLAUDE 101 (versión gratuita)
+
+Serie de contenidos donde enseño a usar Claude gratis, paso a paso, para:
+- Crear tu sistema IA.
+- Diseñar soluciones personalizadas.
+- Aterrizar tus ideas a frameworks y documentos listos para usar.
+
+👉 Repositorio con recursos, prompts y workflows: *(pronto aquí el link a `claude-101-recursos`)*
+
+---
+
+## 🌐 Dónde puedes encontrarme
+
+- TikTok: [@jonatancorreaoficial](https://www.tiktok.com/@jonatancorreaoficial)
+- Instagram: [@soyjonatancorrea](https://www.instagram.com/soyjonatancorrea)
+- YouTube: [@soyjonatancorrea](https://www.youtube.com/@soyjonatancorrea)
+- Más enlaces y recursos: https://linktr.ee/soyjonatancorrea
