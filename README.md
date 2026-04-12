@@ -1,7 +1,7 @@
 # Jonatan Correa ⚡
 
-**Consultor de Marketing y Divulgador de IA**  
-Ayudo a marcas, negocios y creadores a usar IA de forma simplificada, estratégica y sin tecnicismos.
+**Consultor y Divulgador de IA**  
+Ayudo a marcas, negocios y creadores a aprender IA de forma simplificada, estratégica y sin tecnicismos.
 
 ---
 
@@ -9,17 +9,18 @@ Ayudo a marcas, negocios y creadores a usar IA de forma simplificada, estratégi
 
 Recursos gratuitos y accionables para aplicar IA sin saber de código:
 
-- ✅ Skills listas para usar
-- ✅ Frameworks y Workflows probados
+- ✅ Prompts y plantillas para copiar y pegar.
+- ✅ Skills optimizadas listas para utilizarlas.
+- ✅ Frameworks y workflows probados con resultados.
 - ✅ Todo 100% español, sin fricción y en tu lenguaje.
 
 ---
 
 ## 🗂️ Repositorios destacados
 
-| Repositorio | Qué contiene |
+| Repositorio | ¿Qué contiene? |
 |-------------|--------------|
-| [🤖 CLAUDE 101 – Recursos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, workflows y sistemas de la serie completa |
+| [🤖 CLAUDE 101 – Recursos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, plantillas, prompts, workflows y sistemas de la serie CLAUDE 101 completa |
 
 ---
 
@@ -33,4 +34,4 @@ Recursos gratuitos y accionables para aplicar IA sin saber de código:
 
 ---
 
-> *"La IA no es solo para expertos, es para quien quiera usarla."*
+> *"Mi misión es democratizar el conocimiento de IA de manera simplificada, sin tecnicismo y 100% en español."*
