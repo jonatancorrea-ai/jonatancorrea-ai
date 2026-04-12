@@ -34,4 +34,4 @@ Recursos gratuitos y accionables para aplicar IA sin saber de código:
 
 ---
 
-> *"Mi misión es democratizar el conocimiento de IA de manera simplificada, sin tecnicismo y 100% en español."*
+> *"Mi misión es democratizar el conocimiento de IA de manera simplificada, sin tecnicismos y 100% en español."*
