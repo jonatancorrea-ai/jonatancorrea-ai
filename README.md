@@ -1,30 +1,34 @@
-# Hola, soy Jonatan Correa👋
+# Jonatan Correa ⚡
 
-Consultor y divulgador de IA para marcas, negocios y creadores.
-
-Ayudo a marcas, negocios y proyectos a usar IA de manera simplificada para:
-- Crear sistemas y flujos simplificados para optimizar resultados.
-- Ahorrar tiempo en tareas repetitivas y aumentar la productividad.
-- Diseñar productos y servicios con inteligencia artificial, sin tener que ser un experto.
+**Consultor de Marketing y Divulgador de IA**  
+Ayudo a marcas, negocios y creadores a usar IA de forma simplificada, estratégica y sin tecnicismos.
 
 ---
 
-## 🚀 Series y recursos destacados
+## 🧠 Lo que vas a encontrar aquí
 
-### CLAUDE 101 (versión gratuita)
+Recursos gratuitos y accionables para aplicar IA sin saber de código:
 
-Serie de contenidos donde enseño a usar Claude gratis, paso a paso, para:
-- Crear tu sistema IA.
-- Diseñar soluciones personalizadas.
-- Aterrizar tus ideas a frameworks y documentos listos para usar.
-
-👉 Repositorio con recursos, prompts y workflows: *(pronto aquí el link a `claude-101-recursos`)*
+- ✅ Skills listas para usar
+- ✅ Frameworks y Workflows probados
+- ✅ Todo 100% español, sin fricción y en tu lenguaje.
 
 ---
 
-## 🌐 Dónde puedes encontrarme
+## 🗂️ Repositorios destacados
 
-- TikTok: [@jonatancorreaoficial](https://www.tiktok.com/@jonatancorreaoficial)
-- Instagram: [@soyjonatancorrea](https://www.instagram.com/soyjonatancorrea)
-- YouTube: [@soyjonatancorrea](https://www.youtube.com/@soyjonatancorrea)
-- Más enlaces y recursos: https://linktr.ee/soyjonatancorrea
+| Repositorio | Qué contiene |
+|-------------|--------------|
+| [🤖 CLAUDE 101 – Recursos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, workflows y sistemas de la serie completa |
+
+---
+
+## 📡 Encuéntrame también aquí
+
+[![Substack](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-purple?style=flat-square)](https://jonatancorrea.substack.com)
+[![Threads](https://img.shields.io/badge/Threads-@soyjonatancorrea-black?style=flat-square)](https://www.threads.com/@soyjonatancorrea)
+[![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-ff0050?style=flat-square)](https://www.tiktok.com/@jonatancorreaoficial)
+
+---
+
+> *"La IA no es solo para expertos, es para quien quiera usarla."*
