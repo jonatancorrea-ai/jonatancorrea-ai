@@ -30,12 +30,16 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 
 ## 📡 Más contenido disponible para ti
 
-[![Threads](https://img.shields.io/badge/Threads-@soyjonatancorrea-0f071e?style=for-the-badge)](https://www.threads.com/@soyjonatancorrea)
-[![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-0f071e?style=for-the-badge)](https://www.tiktok.com/@jonatancorreaoficial)
-[![Instagram](https://img.shields.io/badge/Instagram-@soyjonatancorrea-0f071e?style=for-the-badge)](https://www.instagram.com/soyjonatancorrea)
+[![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-0f071e?style=for-the-badge&labelColor=0f071e&color=0f071e&logoColor=f7f7f7)](https://www.tiktok.com/@jonatancorreaoficial)
+[![Instagram](https://img.shields.io/badge/Instagram-@soyjonatancorrea-0f071e?style=for-the-badge&labelColor=0f071e&color=0f071e&logoColor=f7f7f7)](https://www.instagram.com/soyjonatancorrea)
+[![Threads](https://img.shields.io/badge/Threads-@soyjonatancorrea-0f071e?style=for-the-badge&labelColor=0f071e&color=0f071e&logoColor=f7f7f7)](https://www.threads.com/@soyjonatancorrea)
 
-[![Newsletter](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-83579f?style=for-the-badge)](https://jonatancorrea.substack.com)
-[![Comunidad Telegram](https://img.shields.io/badge/Comunidad-Telegram-83579f?style=for-the-badge)](https://t.me/modofuturo)
+---
+
+## ⚡ La comunidad espera por ti
+
+[![Newsletter](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-83579f?style=for-the-badge&labelColor=83579f&color=83579f&logoColor=f7f7f7)](https://jonatancorrea.substack.com)
+[![Comunidad Exclusiva](https://img.shields.io/badge/Comunidad-Telegram-83579f?style=for-the-badge&labelColor=83579f&color=83579f&logoColor=f7f7f7)](https://t.me/modofuturo)
 
 
 ---
