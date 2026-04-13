@@ -23,6 +23,10 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 | [🤖 SERIE CLAUDE 101: De novato a experto – Recursos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, prompts, workflows, frameworks y sistemas de la serie completa |
 
 ---
+## 🚀 ¿Quieres ir más rápido?
+
+[![Agenda una llamada gratuita](https://img.shields.io/badge/📅%20Agenda%20una%20llamada%20gratuita-0f071e?style=for-the-badge)](https://cal.com/jonatancorrea/smartmeet)
+[![Conoce IA SIMPLIFICADA 1:1](https://img.shields.io/badge/⚡%20Conoce%20IA%20SIMPLIFICADA%201%3A1-83579f?style=for-the-badge)](https://wa.me/584142276197)
 
 ## 📡 Encuéntrame aquí
 
