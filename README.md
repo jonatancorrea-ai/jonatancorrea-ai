@@ -1,7 +1,7 @@
 # Jonatan Correa ⚡
 
 **Consultor y Divulgador de IA**  
-Ayudo a marcas, negocios y creadores a aprender sobre inteligencia artificial de forma simplificada, estratégica y sin tecnicismos.
+Enseño a marcas, negocios y creadores sobre como aplicar la inteligencia artificial de forma simplificada, estratégica y sin tecnicismos.
 
 ---
 
