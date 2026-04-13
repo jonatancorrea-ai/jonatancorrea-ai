@@ -28,13 +28,15 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 [![Agenda una llamada gratuita](https://img.shields.io/badge/📅%20Agenda%20una%20llamada%20gratuita-0f071e?style=for-the-badge)](https://cal.com/jonatancorrea/consultoriaflash)
 [![Conoce IA SIMPLIFICADA 1:1](https://img.shields.io/badge/⚡%20Conoce%20IA%20SIMPLIFICADA%201%3A1-83579f?style=for-the-badge)](https://wa.link/b4nzbo)
 
-## 📡 Encuéntrame aquí
+## 📡 Más contenido disponible para ti
 
-[![Substack](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-purple?style=flat-square)](https://jonatancorrea.substack.com)
-[![Threads](https://img.shields.io/badge/Threads-@soyjonatancorrea-black?style=flat-square)](https://www.threads.com/@soyjonatancorrea)
-[![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-ff0050?style=flat-square)](https://www.tiktok.com/@jonatancorreaoficial)
-[![Instagram](https://img.shields.io/badge/Instagram-@soyjonatancorrea-E4405F?style=flat-square)](https://www.instagram.com/soyjonatancorrea)
-[![Telegram](https://img.shields.io/badge/Telegram-MODO%20FUTURO%20⚡-26A5E4?style=flat-square)](https://t.me/modofuturo)
+[![Threads](https://img.shields.io/badge/Threads-@soyjonatancorrea-0f071e?style=for-the-badge)](https://www.threads.com/@soyjonatancorrea)
+[![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-0f071e?style=for-the-badge)](https://www.tiktok.com/@jonatancorreaoficial)
+[![Instagram](https://img.shields.io/badge/Instagram-@soyjonatancorrea-0f071e?style=for-the-badge)](https://www.instagram.com/soyjonatancorrea)
+
+[![Newsletter](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-83579f?style=for-the-badge)](https://jonatancorrea.substack.com)
+[![Comunidad Telegram](https://img.shields.io/badge/Comunidad-Telegram-83579f?style=for-the-badge)](https://t.me/modofuturo)
+
 
 ---
 
