@@ -39,7 +39,7 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 ## ⚡ La comunidad espera por ti
 
 [![Newsletter](https://img.shields.io/badge/Newsletter-MODO%20FUTURO%20⚡-83579f?style=for-the-badge&labelColor=83579f&color=83579f&logoColor=f7f7f7)](https://jonatancorrea.substack.com)
-[![Comunidad Exclusiva](https://img.shields.io/badge/Comunidad-Exclusiva-83579f?style=for-the-badge&labelColor=83579f&color=83579f&logoColor=f7f7f7)](https://t.me/modofuturo)
+[![Comunidad Exclusiva](https://img.shields.io/badge/Comunidad-MODO%20FUTURO%20⚡-83579f?style=for-the-badge&labelColor=83579f&color=83579f&logoColor=f7f7f7)](https://t.me/modofuturo)
 
 
 ---
