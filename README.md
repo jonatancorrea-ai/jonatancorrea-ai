@@ -20,7 +20,7 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 
 | Repositorio | Qué contiene |
 |-------------|--------------|
-| [🤖 SERIE CLAUDE 101: De novato a experto – Recursos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, prompts, workflows, frameworks y sistemas de la serie completa |
+| [🤖 SERIE CLAUDE 101: De novato a experto – Recursos gratuitos](https://github.com/jonatancorrea-ai/serie-claude-101-recursos) | Skills, prompts, workflows, frameworks y sistemas de la serie completa |
 
 ---
 ## 🚀 ¿Quieres ir más rápido?
