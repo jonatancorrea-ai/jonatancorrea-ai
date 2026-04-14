@@ -28,7 +28,7 @@ Recursos gratuitos y accionables 100% en español y sin tecnicismos:
 [![Agenda una llamada gratuita](https://img.shields.io/badge/📅%20Agenda%20una%20llamada%20gratuita-0f071e?style=for-the-badge)](https://cal.com/jonatancorrea/consultoriaflash)
 [![Conoce IA SIMPLIFICADA 1:1](https://img.shields.io/badge/⚡%20Conoce%20IA%20SIMPLIFICADA%201%3A1-83579f?style=for-the-badge)](https://wa.link/b4nzbo)
 
-## 📡 Más contenido disponible para ti
+## 📡 Más contenido disponible
 
 [![TikTok](https://img.shields.io/badge/TikTok-@jonatancorreaoficial-0f071e?style=for-the-badge&labelColor=0f071e&color=0f071e&logoColor=f7f7f7)](https://www.tiktok.com/@jonatancorreaoficial)
 [![Instagram](https://img.shields.io/badge/Instagram-@soyjonatancorrea-0f071e?style=for-the-badge&labelColor=0f071e&color=0f071e&logoColor=f7f7f7)](https://www.instagram.com/soyjonatancorrea)
